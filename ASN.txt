@@ -1,270 +1,277 @@
-AS9021 #Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.
-AS42926 #Radore Veri Merkezi Hizmetleri A.S.
-AS8685 #Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
-AS48678 #PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi
-AS34619 #CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
-AS197450 #Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.
-AS43391 #Netdirekt A.S.
 AS12296 #ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.
-AS42807 #CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
-AS42910 #PremierDC Veri Merkezi Anonim Sirketi
-AS43260 #DGN TEKNOLOJI A.S.
-AS25145 #Teknotel Telekomunikasyon A.S.
-AS47952 #ICT BULUT BILISIM A.S.
-AS49126 #IHS Kurumsal Teknoloji Hizmetleri A.S
-AS51540 #DAL Bilgi Teknolojileri ve Bilisim Sistemleri Ticaret A.S.
-AS43352 #Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.
-AS201021 #Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri
-AS44565 #VITAL TEKNOLOJI TELEKOMUNIKASYON BILGISAYAR HIZMETLERI VE SANAYI TICARET LTD SIRKETI
-AS29262 #Ideal Hosting Teknoloji A.S.
-AS203963 #SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.
-AS47123 #TI Sparkle Turkey Telekomunukasyon A.S
-AS42846 #GNET Internet Telekomunikasyon A.S.
-AS57844 #SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.
-AS21245 #MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI
-AS48011 #Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
-AS49467 #INETMAR INTERNET HIZMETLERI BILISM TEKNOLOJILERI SANAYI VE TICARET LIMITED
-AS212219 #HOSTING DUNYAM
-AS6205 #HizliNet Teknoloji A.S.
-AS51557 #Isimtescil Bilisim A.S.
-AS213301 #SURVIVOR Bilisim Teknolojileri A.S.
-AS209604 #2E TELEKOMUNIKASYON LTD STI
-AS203576 #Onur Ekren
 AS15464 #Ihlas Net A.S.
-AS199724 #TeknoDC Bilisim Teknolojileri A.S.
-AS41155 #Orbit Telekom Sanayi ve Ticaret Limited Sirketi
-AS210538 #KEYUBU Internet ve Bilisim Tic. Ltd. Sti.
-AS197720 #TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.
-AS60721 #Bursabil Teknoloji A.S.
-AS212301 #Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
-AS60446 #Datema Bilisim Ticaret Anonim Sirketi
-AS49879 #Dincer Isik trading as ISIK Bilgisayar Internet ve Yayincilik Hizmetleri
-AS209711 #MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.
-AS50941 #Eclit Bilisim Hizmetleri A.S
-AS51722 #PIXOOF TEKNOLOJI ANONIM SIRKETI
-AS205463 #Pembe Gul Isguzar Karagoz
-AS200239 #Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti
-AS6823 #3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.
-AS42868 #Niobe Bilisim Ltd. Sti.
-AS3188 #Alastyr Telekomunikasyon A.S.
-AS47894 #VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI
-AS199366 #Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti.
-AS59674 #Erhan Mahmut trading as "Aysima Bilisim Teknolojileri"
-AS42216 #Yasar Sen trading as Alapli Teknoloji
-AS20649 #FS Veri Merkezi Internet Teknolojileri Limited Sirketi
-AS201863 #Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S.
-AS62425 #Mailbox Internet Hizmetleri Ltd. Sti.
-AS49334 #SH ONLINE ILETISIM ANONIM SIRKETI
-AS47721 #Verilink Bilisim Teknolojileri Anonim Sirketi
-AS209737 #Meric Internet Teknolojileri A.S.
-AS207459 #TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.
-AS203771 #SERVERVIA BILISIM YAZILIM VE TELEKOMUNIKASYON HIZMETLERI LIMITED SIRKETI
-AS197143 #Netcen Teknoloji Ltd. Sti
-AS39582 #Vaultr Veri Merkezi Hizmetleri Anonim Sirketi
-AS215238 #IRFAN TUGRA ONEM
-AS209853 #Veridyen Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi
-AS207483 #Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
-AS9215 #Vmind Bilgi Teknolojileri Anonim Sirketi
-AS212598 #SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
-AS209828 #Genc BT Bilisim Teknolojileri Limited Sirketi
-AS61418 #Glasshouse Bilgi Sistemleri Ticaret Anonim Sirketi
-AS44547 #NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI
-AS207709 #CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI
-AS201079 #GarantiServer Datacenter
-AS199608 #Birbir Internet Teknolojileri Sanayi ve Ticaret Limited Sirketi
-AS47585 #Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi
-AS210574 #PH BILISIM TEKNOLOJILERI LIMITED SIRKETI
-AS202505 #NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI
-AS60707 #Kapteyan A.S.
-AS59886 #Layer Sistem tic. ltd. sti.
-AS56643 #Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti
-AS47516 #DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI
-AS42724 #TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
-AS34828 #DH Bulut Bilisim Anonim Sirketi
-AS216244 #Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri
-AS215391 #CAFER ESER
-AS211567 #Bitwise Yazilim Internet Ve Ticaret Limited Sirketi
-AS211225 #Ecozum Bilgi Teknolojileri A.S
-AS206192 #Eclit Bilisim Hizmetleri A.S
-AS201928 #NETIYI TELEKOMUNIKASYON INTERNET. BILG. HIZ. TIC. SAN. LTD. STI.
-AS62095 #DT Iletisim Hizmetleri A.S.
-AS51791 #Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri
-AS50875 #Ness Telekom Hizmetleri Sanayi ve Ticaret Anonim Sirketi
-AS48660 #VERIUP Bulut Internet Hizmetleri A.S.
-AS44620 #Netlen Internet Hizmetleri Ltd. Sti.
-AS214941 #UPCELL TELEKOMUNIKASYON LIMITED SIRKETI
-AS213657 #HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.
 AS15755 #VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI
-AS57935 #Nrp Teknoloji Limited Sirketi
-AS52033 #AA TELEKOMUNIKASYON BILISIM TEKNOLOJI SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI
-AS48207 #GLB Bulut Teknolojisi Limited Sirketi
-AS213637 #Siberdizayn Bilisim Teknolojileri A.S.
-AS211859 #Ozkula Internet Hizmetleri Tic. LTD. STI.
-AS207582 #Emre Mert Delidere trading as Buuldy Bilisim
-AS207326 #HostLAB Bilisim Teknolojileri A.S.
-AS207279 #MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI
-AS201520 #Dedicated Telekomunikasyon Teknoloji Hiz. Tic. San. LTD. STI.
-AS201364 #TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI
-AS201128 #Bilintel Bilisim Ticaret Limited Sirketi
-AS62077 #DT Iletisim Hizmetleri A.S.
-AS50540 #DT Iletisim Hizmetleri A.S.
-AS48292 #intibu.com
-AS43231 #KARBIL YAZILIM VE BILISIM TEKNOLOJILERI TIC. A.S.
-AS215898 #Saganetwork Telekomunikasyon A.S.
-AS213282 #Ada Yuksek Teknoloji Limited Sirketi
-AS213212 #FixCloud Teknoloji A.S.
-AS211686 #NETCORE BILISIM HIZMETLERI AS
-AS211557 #TAYNET TEKNOLOJI TICARET LIMITED SIRKETI
-AS209799 #Team Bilgi Teknolojileri Limited Sirketi
-AS207983 #Codit Teknoloji Tic. Ltd. Sti.
-AS206505 #MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI
-AS199907 #RADE Bilisim Anonim Sirketi
-AS198970 #VERIMOR TELEKOMUNIKASYON A.S.
-AS61084 #Mehmet Selim Sahin
-AS44319 #Sef Bilisim Hizmetleri A.S.
-AS42584 #NGN Bilgi Teknolojileri Veri Merkezi ve Danismanlik Hizmetleri A.S.
-AS42075 #Netdirekt A.S.
-AS215739 #BULUTSA BILISIM SANAYI VE TICARET ANONIM SIRKETI
-AS215645 #Kayizer Teknoloji Ltd. Sti.
-AS215620 #Alp Furkan Kolan
-AS215027 #OVABIL INTERNET VE BILISIM HIZMETLERI LIMITED SIRKETI
-AS214382 #Bulent Aydin trading as Hostlayici
-AS214140 #Yaman Hosting LLC
-AS213799 #CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI
-AS213751 #YALNIZ BILISIM TEKNOLOJILERI TIC. LTD.STI.
-AS213274 #Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.
-AS213257 #Meric Internet Teknolojileri A.S.
-AS212249 #EG Veri Merkezi Teknoloji Ltd. Sti.
-AS211804 #Ozan Yildiz trading as Sistemdc webhosting and server services
-AS211401 #Atak Domain Bilgi Teknolojileri A.S.
-AS210107 #Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri
-AS206849 #OyunYoneticisi Marketing LTD
-AS205961 #EREEY GRUP BILISIM TEKNOLOJILERI TIC. LTD. STI.
-AS205381 #Mitues Global Teknolojiler Ltd. Sti.
-AS205192 #Pole Telekomunikasyon Sanayi ve Ticaret ANONIM SIRKETI
-AS203810 #CND Medya Reklam ve Internet Hizmetleri Tic. Ltd. Sti.
-AS203393 #Onetra Bilisim Teknolojileri San. Tic. LTD. STI.
-AS202536 #Kadir Kurt trading as Isim Kayit Bilisim
-AS202365 #Omer GOLGELI
-AS202130 #Bida Teknoloji Hizmetleri A.S.
-AS201086 #Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri
-AS200456 #VG Telekomunikasyon Ticaret Limited Sirketi
-AS199419 #LIMON BILGI TEKNOLOJILERI ANONIM SIRKETI
-AS199402 #SIAFLEX Bilisim Anonim Sirketi
-AS198497 #Sipay Elektronik Para ve Odeme Hizmetleri A.S.
-AS60647 #MERT TURKOGLU trading as DATAHOST INTERNET VE BILISIM TEKNOLOJILERI
-AS57610 #YSR Bilisim Teknolojileri Telekomunikasyon Internet ve Danismanlik Hizmetleri Tic. Ltd. Sti.
-AS215761 #Muhammed Fatih ASAN
-AS215567 #Berk Ermis
-AS215531 #Komuta Savunma Yuksek Teknoloji Limited Sirketi
-AS214854 #VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI
-AS213945 #DATA HOME YAZILIM BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI
-AS209500 #WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI
-AS209474 #EKIPHOST BILISIM TEKNOLOJILERI TICARET VE SANAYI LIMITED SIRKETI
-AS205829 #Logo Yazilim Sanayi ve Ticaret Anonim Sirketi
+AS197143 #Netcen Teknoloji Ltd. Sti
+AS197450 #Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.
+AS197720 #TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.
 AS197912 #Aktek Bilgi Iletisim Teknolojisi Sanayi Ve Ticaret AS
-AS60369 #Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.
-AS57922 #Virtara Group Bilisim Teknolojileri Ticaret Limited Sirketi
-AS57419 #FLEX TR Bilisim Sanayi Ticaret Ltd. Sti.
-AS50565 #Muzaffer Guler
-AS48779 #Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.
-AS44922 #Emre Erim trading as Medyabim Datacenter
-AS216095 #Kartaca Bilisim A.S.
-AS216084 #Kerem Uluboy
-AS215812 #EnkiTech Bilisim Limited Sirketi
-AS215411 #danis danisman
-AS215033 #SYNCHRON BILISIM ILETISIM INTERNET SANAYI VE TICARET LIMITED SIRKETI
-AS214588 #ICS Bilisim Teknolojileri Danismanlik Hizmetleri A.S.
-AS214539 #iSIM Platform Teknoloji A.S.
-AS214466 #AE Olfe Teknoloji ve Ticaret Limited Sirketi
-AS214267 #Server Sistemleri Bilisim San. Tic. Ltd. Sti.
-AS214000 #Voxnet Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi
-AS213654 #ESA LIVA Bilgi Teknolojileri San. Ve Tic. LTD. STI
-AS213407 #Adem Celik trading as Uzmansoft Bilisim Web Yazilim Hizmetleri
-AS213252 #Cenuta Telekomunikasyon Anonim Sirketi
-AS213243 #OZGUR EFE YILANCI
-AS211682 #NEXT TELEKOMUNIKASYON LIMITED SIRKETI
-AS211560 #Datafex Bilisim Teknolojileri Ticaret Limited Sirketi
-AS211539 #YUSUF OZTURK
-AS211384 #LTS BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI
-AS210835 #WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI
-AS210618 #EXODUS DANISMANLIK SANAYI VE TICARET LTD STI
-AS210388 #Hayal Host Internet Ve Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
-AS210331 #FIRAT SENEM
-AS20967 #TURKIYE HALKBANKASI A.S.
-AS207805 #Ercan Alacam
-AS207633 #KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
-AS207267 #IBRAHIM POYRAZOGLU
-AS203979 #Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.
-AS203248 #BNET BULUT Bilisim Hizmetleri Tic. Ltd. Sti.
-AS202159 #Sky Atlas Iletisim Sanayi ve Ticaret Anonim Sirketi
-AS200977 #Sunucuyeri Internet Bilgisayar Turizm Sanayi Ve Dis Ticaret Limited Sirketi
-AS200673 #PAKA TEKNOLOJI DANISMANLIK EGITIM HIZ. TIC. LTD. STI.
-AS60442 #DT Teknoloji Anonim Sirketi
-AS59887 #DT Iletisim Hizmetleri A.S.
-AS57447 #DLL TEKNOLOJI VERI MERKEZI HIZMETLERI ANONIM SIRKETI
-AS51915 #ECLIT BILISIM HIZMETLERI ANONIM SIRKETI
-AS49805 #Berke FINCANCI
-AS49565 #Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi
-AS47757 #KORP Cloud
-AS44713 #Teknoser Bilgisayar Teknik Hizmetler Sanayi Ve Dis Ticaret A.S
-AS41801 #Datafon Teknoloji San.Tic.Ltd.Sti.
-AS41683 #Earth Telekomunikasyon Bilisim Internet Arge Yazilim Hizmetleri Tic. Ltd. Sti.
-AS31486 #VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI
-AS30758 #DT Iletisim Hizmetleri A.S.
-AS216389 #FORALTO BILGI TEKNOLOJILERI ANONIM SIRKETI
-AS216227 #Architecht Bilisim Sistemleri ve Pazarlama Ticaret A.S.
-AS216099 #EMRE ANIL ARSLAN
-AS215749 #Bilhost Bilisim Teknolojileri A.S.
-AS215640 #GAMEGAMI BILISIM ANONIM SIRKETI
-AS215618 #Oksitweb Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
-AS215267 #Efekan Rasit Zeybek
-AS215181 #Cafer Latif
-AS215155 #HALIL OMER TEKIN
-AS214803 #Baran Cirak
-AS214528 #Emir Baskopru
-AS214449 #VERA BYTE Telekomunikasyon Anonim Sirketi
-AS214447 #B5 YAZILIM BILGI TEKNOLOJILERI SANAYI VE TICARET LTD.STI
-AS214281 #Mayasoft Bilgi Sistemleri A.S.
-AS213958 #Phoenix Sunucum Teknolojileri
-AS213865 #Nurullah Ates
-AS213796 #Ahmet Cevik
-AS213795 #Mustafa cakir
-AS213719 #Netuv Bilisim A.S.
-AS213652 #Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.
-AS213642 #Coretech Bilisim Hizmetleri Sanayi Ticaret Limited Sirketi
-AS213570 #ALPEREN KARABIYIK
-AS213500 #HEDEF YATIRIM BANKASI A.S.
-AS213488 #Mustafa Gunes trading as Inoxweb Datacenter ve Hosting Bilisim Teknolojileri
-AS213421 #Kuveyt Turk Portfoy Yonetimi A.S.
-AS213020 #Dincer Bekir trading as Reinos Veri Merkezi Teknolojileri
-AS212069 #Hostixo Internet Bilisim Yazilim Hizmetleri Tic. ve San. Ltd. Sti.
-AS211961 #HEDEF GLOBAL BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI
-AS209727 #UNIFREE DUTY FREE ISLETMECILIGI ANONIM SIRKETI
-AS209658 #Salih Demir
-AS209317 #Samet Girginer
-AS209127 #BULUTFON TELEKOMUNIKASYON SAN ve TIC AS
-AS208901 #Sabanci Dijital Teknoloji Hizmetleri A.S.
-AS207835 #CREART TEKNOLOJI ANONIM SIRKETI
-AS207629 #Idebil Teknoloji Limited Sirketi
-AS206668 #Bayram Coskun
-AS206064 #VDF FAKTORING ANONIM SIRKETI
-AS204876 #BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI
-AS204843 #STERLY VERI MERKEZI YAZILIM VE SIBER GUVENLIK HIZMETLERI A.S.
-AS204815 #Ahlatci Teknoloji A.S
-AS204580 #Can Berkay Dalgic
-AS203545 #Savas Anac
-AS203511 #OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI
-AS203494 #Huriye Coban
-AS203259 #Zero Veri Merkezi Teknolojileri A.S
-AS202983 #Craftgate Teknoloji A.S.
-AS202924 #SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI
-AS202678 #SPEX TEKNOLOJI ANONIM SIRKETI
-AS202620 #Alastyr Telekomunikasyon A.S.
-AS201233 #YONCA DURAN
-AS201064 #Ideal Hosting Teknoloji A.S.
-AS200334 #Alptekin Sunnetci
-AS200190 #Owligo Bilisim Sistemleri A.S
-AS200002 #Verimek Telekomunikasyon San Ve Tic. Ltd. Sti.
-AS199797 #Sentreva Internet Hizmetleri Anonim Sirketi
+AS198497 #Sipay Elektronik Para ve Odeme Hizmetleri A.S.
+AS198970 #VERIMOR TELEKOMUNIKASYON A.S.
+AS199366 #Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti.
+AS199402 #SIAFLEX Bilisim Anonim Sirketi
+AS199419 #LIMON BILGI TEKNOLOJILERI ANONIM SIRKETI
 AS199484 #Euronet Telekomunikasyon A.S.
+AS199608 #Birbir Internet Teknolojileri Sanayi ve Ticaret Limited Sirketi
+AS199724 #TeknoDC Bilisim Teknolojileri A.S.
+AS199797 #Sentreva Internet Hizmetleri Anonim Sirketi
+AS199907 #RADE Bilisim Anonim Sirketi
+AS200002 #Verimek Telekomunikasyon San Ve Tic. Ltd. Sti.
+AS200190 #Owligo Bilisim Sistemleri A.S
+AS200239 #Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti
+AS200334 #Alptekin Sunnetci
+AS200456 #VG Telekomunikasyon Ticaret Limited Sirketi
+AS200673 #PAKA TEKNOLOJI DANISMANLIK EGITIM HIZ. TIC. LTD. STI.
+AS200977 #Sunucuyeri Internet Bilgisayar Turizm Sanayi Ve Dis Ticaret Limited Sirketi
+AS201021 #Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri
+AS201064 #Ideal Hosting Teknoloji A.S.
+AS201079 #GarantiServer Datacenter
+AS201086 #Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri
+AS201128 #Bilintel Bilisim Ticaret Limited Sirketi
+AS201233 #YONCA DURAN
+AS201364 #TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI
+AS201520 #Dedicated Telekomunikasyon Teknoloji Hiz. Tic. San. LTD. STI.
+AS201863 #Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S.
+AS201928 #NETIYI TELEKOMUNIKASYON INTERNET. BILG. HIZ. TIC. SAN. LTD. STI.
+AS202130 #Bida Teknoloji Hizmetleri A.S.
+AS202159 #Sky Atlas Iletisim Sanayi ve Ticaret Anonim Sirketi
+AS202365 #Omer GOLGELI
+AS202505 #NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI
+AS202536 #Kadir Kurt trading as Isim Kayit Bilisim
+AS202620 #Alastyr Telekomunikasyon A.S.
+AS202678 #SPEX TEKNOLOJI ANONIM SIRKETI
+AS202924 #SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI
+AS202983 #Craftgate Teknoloji A.S.
+AS203248 #BNET BULUT Bilisim Hizmetleri Tic. Ltd. Sti.
+AS203259 #Zero Veri Merkezi Teknolojileri A.S
+AS203393 #Onetra Bilisim Teknolojileri San. Tic. LTD. STI.
+AS203494 #Huriye Coban
+AS203511 #OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI
+AS203545 #Savas Anac
+AS203555 #Emre Erim trading as Medyabim Datacenter
+AS203576 #Onur Ekren
+AS203771 #SERVERVIA BILISIM YAZILIM VE TELEKOMUNIKASYON HIZMETLERI LIMITED SIRKETI
+AS203810 #CND Medya Reklam ve Internet Hizmetleri Tic. Ltd. Sti.
+AS203963 #SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.
+AS203979 #Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.
+AS204580 #Can Berkay Dalgic
+AS204815 #Ahlatci Teknoloji A.S
+AS204843 #STERLY VERI MERKEZI YAZILIM VE SIBER GUVENLIK HIZMETLERI A.S.
+AS204876 #BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI
+AS205192 #Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi
+AS205381 #Mitues Global Teknolojiler Ltd. Sti.
+AS205463 #Pembe Gul Isguzar Karagoz
+AS205829 #Logo Yazilim Sanayi ve Ticaret Anonim Sirketi
+AS205961 #EREEY GRUP BILISIM TEKNOLOJILERI TIC. LTD. STI.
+AS206064 #VDF FAKTORING ANONIM SIRKETI
+AS206115 #MIKRON BILISIM
+AS206192 #Eclit Bilisim Hizmetleri A.S
+AS20649 #FS Veri Merkezi Internet Teknolojileri Limited Sirketi
+AS206505 #MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI
+AS206668 #Bayram Coskun
+AS206849 #OyunYoneticisi Marketing LTD
+AS206991 #Iksir Internet Hizmetleri A.S.
+AS207267 #IBRAHIM POYRAZOGLU
+AS207279 #MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI
+AS207326 #HostLAB Bilisim Teknolojileri A.S.
+AS207459 #TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.
+AS207483 #Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
+AS207582 #Emre Mert Delidere trading as Buuldy Bilisim
+AS207629 #Idebil Teknoloji Limited Sirketi
+AS207633 #KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI
+AS207709 #CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI
+AS207805 #Ercan Alacam
+AS207835 #CREART TEKNOLOJI ANONIM SIRKETI
+AS207983 #Codit Teknoloji Tic. Ltd. Sti.
+AS208022 #Mehmet Ali Kilic
+AS208901 #Sabanci Dijital Teknoloji Hizmetleri A.S.
+AS209127 #BULUTFON TELEKOMUNIKASYON SAN ve TIC AS
+AS209317 #Samet Girginer
+AS209474 #EKIPHOST BILISIM TEKNOLOJILERI TICARET VE SANAYI LIMITED SIRKETI
+AS209500 #WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI
+AS209604 #2E TELEKOMUNIKASYON LTD STI
+AS209658 #Salih Demir
+AS20967 #TURKIYE HALKBANKASI A.S.
+AS209711 #MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.
+AS209737 #Meric Internet Teknolojileri A.S.
+AS209799 #Team Bilgi Teknolojileri Limited Sirketi
+AS209828 #Genc BT Bilisim Teknolojileri Limited Sirketi
+AS209853 #Veridyen Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi
+AS210107 #Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri
+AS210331 #FIRAT SENEM
+AS210388 #Hayal Host Internet Ve Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
+AS210538 #KEYUBU Internet ve Bilisim Tic. Ltd. Sti.
+AS210574 #PH BILISIM TEKNOLOJILERI LIMITED SIRKETI
+AS210618 #EXODUS DANISMANLIK SANAYI VE TICARET LTD STI
+AS210835 #WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI
+AS210880 #Arda Daglioglu
+AS211225 #Ecozum Bilgi Teknolojileri A.S
+AS211384 #LTS BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI
+AS211401 #Atak Domain Bilgi Teknolojileri A.S.
+AS211539 #YUSUF OZTURK
+AS211557 #TAYNET TEKNOLOJI TICARET LIMITED SIRKETI
+AS211560 #Datafex Bilisim Teknolojileri Ticaret Limited Sirketi
+AS211567 #Bitwise Yazilim Internet Ve Ticaret Limited Sirketi
+AS211682 #NEXT TELEKOMUNIKASYON LIMITED SIRKETI
+AS211686 #NETCORE BILISIM HIZMETLERI AS
+AS211804 #Ozan Yildiz trading as Sistemdc webhosting and server services
+AS211859 #Ozkula Internet Hizmetleri Tic. LTD. STI.
+AS211961 #HEDEF GLOBAL BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI
+AS212069 #Hostixo Internet Bilisim Yazilim Hizmetleri Tic. ve San. Ltd. Sti.
+AS212219 #HOSTING DUNYAM
+AS212249 #EG Veri Merkezi Teknoloji Ltd. Sti.
+AS212301 #Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
+AS21245 #MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI
+AS212598 #SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
+AS213020 #Dincer Bekir trading as Reinos Veri Merkezi Teknolojileri
+AS213212 #FixCloud Teknoloji A.S.
+AS213234 #Hasan Berkay Cagir
+AS213243 #OZGUR EFE YILANCI
+AS213252 #Cenuta Telekomunikasyon Anonim Sirketi
+AS213257 #Meric Internet Teknolojileri A.S.
+AS213274 #Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.
+AS213282 #Ada Yuksek Teknoloji Limited Sirketi
+AS213301 #SURVIVOR Bilisim Teknolojileri A.S.
+AS213407 #Adem Celik trading as Uzmansoft Bilisim Web Yazilim Hizmetleri
+AS213421 #Kuveyt Turk Portfoy Yonetimi A.S.
+AS213488 #Mustafa Gunes trading as Inoxweb Datacenter ve Hosting Bilisim Teknolojileri
+AS213500 #HEDEF YATIRIM BANKASI A.S.
+AS213570 #ALPEREN KARABIYIK
+AS213637 #Siberdizayn Bilisim Teknolojileri A.S.
+AS213642 #Coretech Bilisim Hizmetleri Sanayi Ticaret Limited Sirketi
+AS213652 #Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.
+AS213654 #ESA LIVA Bilgi Teknolojileri San. Ve Tic. LTD. STI
+AS213657 #HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.
+AS213719 #Netuv Bilisim A.S.
+AS213751 #YALNIZ BILISIM TEKNOLOJILERI TIC. LTD.STI.
+AS213795 #Mustafa cakir
+AS213796 #Ahmet Cevik
+AS213799 #CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI
+AS213865 #Nurullah Ates
+AS213945 #DATA HOME YAZILIM BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI
+AS213958 #Phoenix Sunucum Teknolojileri
+AS214000 #Voxnet Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi
+AS214140 #Yaman Hosting LLC
+AS214267 #Server Sistemleri Bilisim San. Tic. Ltd. Sti.
+AS214281 #Mayasoft Bilgi Sistemleri A.S.
+AS214382 #Bulent Aydin trading as Hostlayici
+AS214447 #B5 YAZILIM BILGI TEKNOLOJILERI SANAYI VE TICARET LTD.STI
+AS214449 #VERA BYTE Telekomunikasyon Anonim Sirketi
+AS214466 #AE Olfe Teknoloji ve Ticaret Limited Sirketi
+AS214528 #Emir Baskopru
+AS214539 #iSIM Platform Teknoloji A.S.
+AS214588 #ICS Bilisim Teknolojileri Danismanlik Hizmetleri A.S.
+AS214803 #Baran Cirak
+AS214854 #VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI
+AS214941 #UPCELL TELEKOMUNIKASYON LIMITED SIRKETI
+AS215027 #OVABIL INTERNET VE BILISIM HIZMETLERI LIMITED SIRKETI
+AS215033 #SYNCHRON BILISIM ILETISIM INTERNET SANAYI VE TICARET LIMITED SIRKETI
+AS215155 #HALIL OMER TEKIN
+AS215181 #Cafer Latif
+AS215238 #IRFAN TUGRA ONEM
+AS215267 #Efekan Rasit Zeybek
+AS215391 #CAFER ESER
+AS215411 #danis danisman
+AS215516 #Sebnem Kilinc
+AS215531 #Komuta Savunma Yuksek Teknoloji Limited Sirketi
+AS215567 #Berk Ermis
+AS215618 #Oksitweb Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi
+AS215620 #Alp Furkan Kolan
+AS215640 #GAMEGAMI BILISIM ANONIM SIRKETI
+AS215645 #Kayizer Teknoloji Ltd. Sti.
+AS215739 #BULUTSA BILISIM SANAYI VE TICARET ANONIM SIRKETI
+AS215749 #Bilhost Bilisim Teknolojileri A.S.
+AS215761 #Muhammed Fatih ASAN
+AS215812 #EnkiTech Bilisim Limited Sirketi
+AS215898 #Saganetwork Telekomunikasyon A.S.
+AS216084 #Kerem Uluboy
+AS216095 #Kartaca Bilisim A.S.
+AS216099 #EMRE ANIL ARSLAN
+AS216227 #Architecht Bilisim Sistemleri ve Pazarlama Ticaret A.S.
+AS216244 #Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri
+AS216385 #Dijital Bilisim Teknoloji Hizmetleri San. Tic. Ltd. Sti.
+AS216389 #FORALTO BILGI TEKNOLOJILERI ANONIM SIRKETI
+AS25145 #Teknotel Telekomunikasyon A.S.
+AS29262 #Ideal Hosting Teknoloji A.S.
+AS30758 #DT Iletisim Hizmetleri A.S.
+AS31486 #VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI
+AS3188 #Alastyr Telekomunikasyon A.S.
+AS34619 #CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+AS34828 #DH Bulut Bilisim Anonim Sirketi
+AS39582 #Vaultr Veri Merkezi Hizmetleri Anonim Sirketi
+AS41155 #Orbit Telekom Sanayi ve Ticaret Limited Sirketi
+AS41683 #Earth Telekomunikasyon Bilisim Internet Arge Yazilim Hizmetleri Tic. Ltd. Sti.
+AS41801 #Datafon Teknoloji San.Tic.Ltd.Sti.
+AS42075 #Netdirekt A.S.
+AS42216 #Yasar Sen trading as Alapli Teknoloji
+AS42584 #NGN Bilgi Teknolojileri Veri Merkezi ve Danismanlik Hizmetleri A.S.
+AS42724 #TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
+AS42807 #CIZGI TELEKOMUNIKASYON ANONIM SIRKETI
+AS42846 #GNET Internet Telekomunikasyon A.S.
+AS42868 #Niobe Bilisim Ltd. Sti.
+AS42910 #PremierDC Veri Merkezi Anonim Sirketi
+AS42926 #Radore Veri Merkezi Hizmetleri A.S.
+AS43231 #KARBIL YAZILIM VE BILISIM TEKNOLOJILERI TIC. A.S.
+AS43260 #DGN TEKNOLOJI A.S.
+AS43352 #Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.
+AS43391 #Netdirekt A.S. #26.112
+AS44319 #Sef Bilisim Hizmetleri A.S.
+AS44547 #NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI
+AS44565 #VITAL TEKNOLOJI TELEKOMUNIKASYON BILGISAYAR HIZMETLERI VE SANAYI TICARET LTD SIRKETI
+AS44620 #Netlen Internet Hizmetleri Ltd. Sti.
+AS44713 #Teknoser Bilgisayar Teknik Hizmetler Sanayi Ve Dis Ticaret A.S
+AS44922 #Emre Erim trading as Medyabim Datacenter
+AS47123 #TI Sparkle Turkey Telekomunukasyon A.S
+AS47516 #DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI
+AS47585 #Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi
+AS47721 #Verilink Bilisim Teknolojileri Anonim Sirketi
+AS47757 #KORP Cloud
+AS47894 #VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI
+AS47952 #ICT BULUT BILISIM A.S.
+AS48011 #Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi
+AS48207 #GLB Bulut Teknolojisi Limited Sirketi
+AS48292 #intibu.com
+AS48660 #VERIUP Bulut Internet Hizmetleri A.S.
+AS48678 #PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi
+AS48779 #Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.
+AS49126 #IHS Kurumsal Teknoloji Hizmetleri A.S
+AS49334 #SH ONLINE ILETISIM ANONIM SIRKETI
+AS49467 #INETMAR INTERNET HIZMETLERI BILISM TEKNOLOJILERI SANAYI VE TICARET LIMITED
+AS49565 #Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi
+AS49805 #Berke FINCANCI
+AS49879 #Dincer Isik trading as ISIK Bilgisayar Internet ve Yayincilik Hizmetleri
+AS50540 #DT Iletisim Hizmetleri A.S.
+AS50565 #Muzaffer Guler
+AS50875 #Ness Telekom Hizmetleri Sanayi ve Ticaret Anonim Sirketi
+AS50941 #Eclit Bilisim Hizmetleri A.S
+AS51540 #DAL Bilgi Teknolojileri ve Bilisim Sistemleri Ticaret A.S.
+AS51557 #Isimtescil Bilisim A.S.
+AS51722 #PIXOOF TEKNOLOJI ANONIM SIRKETI
+AS51791 #Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri
+AS51915 #ECLIT BILISIM HIZMETLERI ANONIM SIRKETI
+AS52033 #AA TELEKOMUNIKASYON BILISIM TEKNOLOJI SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI
+AS56643 #Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti
+AS57419 #FLEX TR Bilisim Sanayi Ticaret Ltd. Sti.
+AS57447 #DLL TEKNOLOJI VERI MERKEZI HIZMETLERI ANONIM SIRKETI
+AS57610 #YSR Bilisim Teknolojileri Telekomunikasyon Internet ve Danismanlik Hizmetleri Tic. Ltd. Sti.
+AS57844 #SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.
+AS57922 #Virtara Group Bilisim Teknolojileri Ticaret Limited Sirketi
+AS57935 #Nrp Teknoloji Limited Sirketi
+AS59674 #Erhan Mahmut trading as "Aysima Bilisim Teknolojileri"
+AS59886 #Layer Sistem tic. ltd. sti.
+AS59887 #DT Iletisim Hizmetleri A.S.
+AS60369 #Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.
+AS60442 #DT Teknoloji Anonim Sirketi
+AS60446 #Datema Bilisim Ticaret Anonim Sirketi
+AS60647 #MERT TURKOGLU trading as DATAHOST INTERNET VE BILISIM TEKNOLOJILERI
+AS60707 #Kapteyan A.S.
+AS60721 #Bursabil Teknoloji A.S.
+AS61084 #Mehmet Selim Sahin
+AS61418 #Glasshouse Bilgi Sistemleri Ticaret Anonim Sirketi
+AS6205 #HizliNet Teknoloji A.S.
+AS62077 #DT Iletisim Hizmetleri A.S.
+AS62095 #DT Iletisim Hizmetleri A.S.
+AS62425 #Mailbox Internet Hizmetleri Ltd. Sti.
+AS6823 #3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.
+AS8685 #Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+AS9021 #Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.
+AS9215 #Vmind Bilgi Teknolojileri Anonim Sirketi
