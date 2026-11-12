@@ -275,4 +275,3 @@ AS6823 #3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.
 AS8685 #Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
 AS9021 #Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.
 AS9215 #Vmind Bilgi Teknolojileri Anonim Sirketi
-AS215238 #IRFAN TUGRA ONEM / Önem Bilişim
